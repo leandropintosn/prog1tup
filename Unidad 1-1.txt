@@ -1,0 +1,79 @@
+📌 Concepto de Programación
+Es la actividad de escribir, probar y mantener código fuente para resolver problemas usando algoritmos, que son instrucciones claras, finitas y ordenadas.
+
+📌 Problemas y Resolución
+Un problema surge cuando hay una diferencia entre una situación actual y la deseada. Resolverlo implica:
+
+Identificarlo
+
+Analizarlo
+
+Formularlo
+
+Establecer objetivos
+
+Contextualizarlo
+
+Delimitar variables
+
+📌 Análisis del Problema
+Se identifican los datos de entrada, el proceso necesario y la información de salida deseada. Se puede usar la técnica HIPO (Jerarquía + Entrada, Proceso, Salida) para representarlo.
+
+📌 Algoritmos y Programas
+Algoritmo: Conjunto de pasos para resolver un problema.
+
+Programa: Implementación de un algoritmo en un lenguaje que la computadora puede entender.
+
+📌 Lenguajes de Programación
+Bajo Nivel: Cercanos al hardware (lenguaje máquina y ensamblador).
+
+Alto Nivel: Más cercanos al lenguaje humano (C, Python, Java).
+
+Compilados: Traducen todo el código antes de ejecutar (ej: C).
+
+Interpretados: Ejecutan línea por línea (ej: Python, JavaScript).
+
+📌 Paradigmas de Programación
+Estructurada: Secuencial, con decisiones (if/switch) y bucles (for/while).
+
+Orientada a Objetos: Organiza el código en objetos que encapsulan datos y comportamientos.
+
+📌 Proceso para Resolver Problemas con Programación
+Análisis del problema
+
+Especificación del problema
+
+Diseño del algoritmo
+
+Codificación
+
+Compilación y ejecución
+
+Verificación
+
+Depuración
+
+📌 Características Deseables de un Programa
+Integridad: Cálculos correctos
+
+Claridad: Fácil de leer
+
+Eficiencia: Buen uso de recursos
+
+Modularidad: Dividido en partes reutilizables
+
+Generalidad: Capacidad de adaptación a otros contextos
+
+📌 Buenas Prácticas de Programación
+Código simple, bien comentado y organizado
+
+Nombres significativos en variables
+
+Evitar código comentado innecesario
+
+Indentación consistente
+
+No más de una instrucción por línea
+
+Inicializar siempre contadores y variables
+
