@@ -69,3 +69,15 @@ El programa está organizado en las siguientes secciones lógicas y funciones:
 ## Uso
 
 Al iniciar el programa, se mostrará un menú principal:
+--- Sistema de Reservas de Turnos ---
+
+Reservar Turno
+Cancelar Turno
+Mostrar Turnos Disponibles
+Mostrar Turnos Ocupados
+Editar Turno
+Ordenar Turnos por Fecha y Hora
+Salir
+Ingrese su opcion:
+
+
